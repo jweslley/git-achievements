@@ -2,6 +2,8 @@
 <title>Jonhnny Weslley's Git Achievements</title>
 <description></description>
 <link></link>
+<item><title>Merchant (Level 5)</title><description>Added an external repository with git remote add.</description></item>
+<item><title>Apprentice Investigator (Level 3)</title><description>Used git blame to annotates a file with information about how each line changed.</description></item>
 <item><title>Master Socialite (Level 9)</title><description>pushed a branch to a remote repository using git push</description></item>
 <item><title>Blacksmith (Level 4)</title><description>Created a branch using git checkout -b.</description></item>
 <item><title>Master Product Manager (Level 7)</title><description>Stash the changes in a dirty working directory away with git stash.</description></item>
@@ -20,6 +22,4 @@
 <item><title>Merchant (Level 4)</title><description>Added an external repository with git remote add.</description></item>
 <item><title>Cathedral Architect (Level 6)</title><description>Added a submodule to a repository.</description></item>
 <item><title>Master Socialite (Level 8)</title><description>pushed a branch to a remote repository using git push</description></item>
-<item><title>Apprentice Cleaning lady (Level 2)</title><description>Remove untracked files from the working tree with git clean</description></item>
-<item><title>Apprentice Cleaning lady (Level 1)</title><description>Remove untracked files from the working tree with git clean</description></item>
 </channel></rss>
